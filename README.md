@@ -1,7 +1,7 @@
 ![metalu.net-logo](img/logo-metalu-net.png)
 
 
-[metalu.net](http://metalu.net) is a collective of artists and technicians pluridisciplinary, a place dedicated to the experimentation of new technologies in art, and a platform of resources serving digital artists.
+[metalu.net](http://metalu.net) is a collective of multidisciplinary artists and technicians, a place dedicated to the experimentation of new technologies in art, and a platform of resources serving digital artists.
 
 [metalu.net](http://metalu.net) tries, as much as possible, to publish each tool or project that has been part of its activities; for two main reasons:
 
