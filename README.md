@@ -11,6 +11,6 @@
 For readability we have separated common purpose tools from particular projects (e.g artistic works, or works resulting from a participative workshop):
 
 - [metalu.net github repositories](https://github.com/MetaluNet) host libraries or documentation that could be directly useful for other people. 
-- [metalunet-projects github repositories](https://github.com/MetaluNet) is the memory of our activity. Anybody can have a look to these projects, which can help to know how we usually manage such projects.
+- [metalunet-projects github repositories](https://github.com/MetaluNetProjects) is the memory of our activity. Anybody can have a look to these projects, which can help to know how we usually manage such projects.
 
 
